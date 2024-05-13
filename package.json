@@ -1,12 +1,12 @@
 {
-  "name": "url-scan",
+  "name": "url-js-scan",
   "description": "url scan package",
   "version": "0.0.1",
   "main": "./dist/index.js",
   "module": ".dist/index.mjs",
   "types": "./dist/index.d.ts",
   "repository": {
-    "url": "https://github.com/lazaro-contato/url-scan"
+    "url": "https://github.com/lazaro-contato/url-js-scan"
   },
   "directories": {
     "test": "test"
