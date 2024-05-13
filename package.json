@@ -1,0 +1,28 @@
+{
+  "name": "url-checker",
+  "description": "url checker package",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "module": ".dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/lazaro-contato/url-checker"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup"
+  },
+  "keywords": [
+    "url",
+    "url checker"
+  ],
+  "author": "lazaro-dev",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
