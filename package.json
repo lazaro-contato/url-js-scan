@@ -1,12 +1,12 @@
 {
-  "name": "url-checker",
-  "description": "url checker package",
+  "name": "url-scan",
+  "description": "url scan package",
   "version": "0.0.1",
   "main": "./dist/index.js",
   "module": ".dist/index.mjs",
   "types": "./dist/index.d.ts",
   "repository": {
-    "url": "https://github.com/lazaro-contato/url-checker"
+    "url": "https://github.com/lazaro-contato/url-scan"
   },
   "directories": {
     "test": "test"
@@ -17,7 +17,7 @@
   },
   "keywords": [
     "url",
-    "url checker"
+    "url scan"
   ],
   "author": "lazaro-dev",
   "license": "ISC",

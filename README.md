@@ -1,3 +1,3 @@
-# URL CHECKER
+# URL SCAN
 
-A checker to test the confidence of urls.
+A SCAN to test the confidence of urls.
