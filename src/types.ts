@@ -1,3 +1,4 @@
-export type isSafeUrlProps = {
+export type urlTestProps = {
     url: string
+    allowHttps?: boolean
 }
